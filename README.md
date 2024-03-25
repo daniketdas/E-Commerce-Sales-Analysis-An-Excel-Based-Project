@@ -1,1 +1,2 @@
 # E-Commerce-Sales-Analysis-An-Excel-Based-Project
+I spearheaded an analysis of e-commerce sales data sourced from Kaggle for the year 2022. Following meticulous data cleaning, I crafted an interactive dashboard using pivot tables to visualize sales performance, customer behavior, and product trends. Through in-depth analysis, I identified key insights, aiding stakeholders in strategic decision-making. I compiled findings into a comprehensive report, offering actionable recommendations for optimizing e-commerce operations and maximizing profitability.
