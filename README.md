@@ -33,6 +33,10 @@ The dataset used in this project has been sourced from Kaggle. The dataset had 3
 * Companies can run promotions for their products on various platforms specially on Amazon, Myntra and Flipkart.
 * Companies can also design various coupons or discounts for their target customers so as to increase their sales.
 
+# Tableau Dashboard:
+![image](https://github.com/user-attachments/assets/f97c60a6-71e9-4eff-88f7-701cacf705f1)
+
+
 
 
 
